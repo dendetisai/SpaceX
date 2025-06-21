@@ -1,0 +1,331 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+#Block1 {
+  display: flex;
+  position: fixed;
+  top: 0%;
+  justify-content: left;
+  justify-content:space-evenly;
+  align-items: center;
+  padding-top: 20px;
+  /* padding: 15px 30px 20px; */
+  color: white;
+      align-items: center;
+    justify-content: left;
+   
+}
+
+.D1 img {
+  display: block;
+  
+}
+
+.D1 {
+  display: flex;
+  gap: 20px; 
+  margin-left: 20px;
+  flex-wrap: wrap;
+}
+
+.D1 a {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight:600;
+  padding-top: 10px;
+  padding-left: 10px;
+  text-transform: uppercase;
+  gap: 10px;
+  font-size: 14px;
+  color: white;
+  text-decoration: none;
+  
+}
+
+.D1 a:hover {
+  color: black;
+  text-decoration: underline solid;
+
+}
+#IMG1{
+  background-size: cover;
+    background-position: center;
+    height: 100vh;
+    padding-top: 100px;
+    height: 1000px;
+    width: 100%;
+}
+#D2{
+    display: flex;
+    margin-left: 170px;
+}
+#D3{
+    margin-top: 350px;
+    margin-left: 100px;
+}
+#D3>p{
+    color: white;
+    font-size: x-large;
+}
+#D3>h1{
+    color: white;
+    font-size: xxx-large;
+}
+#D3>button{
+    border: 2px solid white;
+    height: 50px;
+    color: white;
+    width: 130px;
+    background-color: transparent;
+}
+#D3>button:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+#D4{
+    color: white;
+    font-size: 30px;
+    margin-left: 750px;
+}
+#D5{
+    
+    background-image: url(https://sxcontent9668.azureedge.us/cms-assets/assets/home_mars2026_d_59b1a6ea7a.jpg);
+      height: 700px;
+    width: 100%;
+    background-size: contain;
+}
+.PARA2>h1{
+    color: white;
+    font-size: x-large;
+    font-weight:bolder;
+    font: 48px / 48px D-DIN-Bold, Arial, Verdana, sans-serif;
+
+}
+.PARA2>button{
+   border: 2px solid white;
+    height: 50px;
+    color: white;
+    width: 130px;
+    background-color: transparent; 
+    
+}
+.PARA2>button:hover{
+    background-color: white;
+    color: rgb(244, 239, 239);
+    font-weight: bold;
+}
+#D5{
+    display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding-left: 100px;
+  padding-bottom: 150px;
+}
+#D6{
+  background-image: url(https://sxcontent9668.azureedge.us/cms-assets/assets/Flight_9_Website_Desktop_4_f1db4d08ec.jpg);
+    display: flex;
+    background-size: contain;
+    height: 700px;
+    width: 100%;
+  justify-content: flex-start;  
+  align-items: flex-end;        
+  padding: 60px;
+  color: white;
+   
+}
+.PARA3>p {
+  font-size: 18px;
+  letter-spacing: 1px;
+  font-family: 'Arial', sans-serif;
+}
+
+.PARA3>h1 {
+  font-size: 42px;
+  font-weight: bold;
+  font-family: 'Georgia', serif;
+}
+
+.PARA3>button{
+ border: 2px solid white;
+    height: 50px;
+    color: white;
+    width: 130px;
+    background-color: transparent;   
+}
+
+.PARA3>button:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+#D7{
+   background-image: url(https://sxcontent9668.azureedge.us/cms-assets/assets/20250618_Starlink_10_18_LIFTSTL_0033_8da7cfed22.jpg);
+    display: flex;
+    background-size: contain;
+    height: 700px;
+    width: 100%;
+  justify-content: flex-start;  
+  align-items: flex-end;        
+  padding: 60px;
+  color: white; 
+}
+.PARA4>h1 {
+  font-size: 42px;
+  font-weight: bold;
+  font-family: 'Georgia', serif;
+}
+.PARA4>P{
+    font-size: 18px;
+  letter-spacing: 1px;
+  font-family: 'Arial', sans-serif;
+}
+.PARA4>button{
+ border: 2px solid white;
+    height: 50px;
+    color: white;
+    width: 130px;
+    background-color: transparent;   
+}
+
+.PARA4>button:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+#D8{
+   background-image: url(https://sxcontent9668.azureedge.us/cms-assets/assets/Starlink_G15_9_OS_56_Streak_8343_Desktop_9f6854edf6.jpg);
+    display: flex;
+    background-size: contain;
+    height: 700px;
+    width: 100%;
+  justify-content: flex-start;  
+  align-items: flex-end;        
+  padding: 60px;
+  color: white; 
+}
+.PARA5>h1 {
+  font-size: 42px;
+  font-weight: bold;
+  font-family: 'Georgia', serif;
+}
+.PARA5>P{
+    font-size: 18px;
+  letter-spacing: 1px;
+  font-family: 'Arial', sans-serif;
+}
+.PARA5>button{
+ border: 2px solid white;
+    height: 50px;
+    color: white;
+    width: 130px;
+    background-color: transparent;   
+}
+
+.PARA5>button:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+#D9{
+   background-image: url(https://sxcontent9668.azureedge.us/cms-assets/assets/Eva_Suit_Desktop_alternate_1cf9bae18e.jpg);
+    display: flex;
+    background-size: contain;
+    height: 700px;
+    width: 100%;
+  justify-content: flex-start;  
+  align-items: flex-end;        
+  padding: 60px;
+  color: white; 
+}
+.PARA6>h1 {
+  font-size: 42px;
+  font-weight: bold;
+  font-family: 'Georgia', serif;
+}
+
+.PARA6>button{
+ border: 2px solid white;
+    height: 50px;
+    color: white;
+    width: 130px;
+    background-color: transparent;   
+}
+
+.PARA6>button:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+footer{
+    background-color: black;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    text-decoration: none;
+    bottom: 0px;
+}
+footer>li{
+list-style-type: none;
+font: 15px / 38px D-DIN-Medium, Arial, Verdana, sans-serif;
+color: white;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    text-decoration: none;
+}
+
+footer>li:hover {
+  transform: scale(0.9); 
+  transition: transform 0.3s ease;
+}
+
+footer>li {
+  transition: transform 0.3s ease; 
+}
+#M1{
+    padding-top: 10px;
+}
+#M2{
+    border: 2px solid white;
+    background-color: black;
+    height: 600px;
+    width: 300px;
+    position: fixed;
+    padding-top: 20px;
+    display: none;
+    color: white;
+    flex-direction: column;
+    right: 40px; 
+    top: 50px;  
+}
+#M2>a{
+    display: flex;
+    justify-content: center;
+    line-height: 50px;
+    align-items: center;
+}
+#M2>a:hover{
+    display:flex ;
+    position:relative;
+    align-items: center;
+    font-size: medium;
+    color: white;
+    background-color: black;
+}
+#M1:hover #M2{
+    display: flex;
+    position: fixed;
+}
+
+
+
+
+
